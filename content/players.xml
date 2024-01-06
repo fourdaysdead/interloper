@@ -1,7 +1,7 @@
 <players nameimageroot="gfx/ui/boss/" portraitroot="gfx/ui/stage/" root="gfx/characters/costumes/">
     <player name="Grate" skin="character_grate.png"
         heartContainers="4" redHearts="4" healthLimit="24"
-        speedModifier="-0.2" firedelayModifier="0.5"
+        speedModifier="-0.2" firedelayModifier="0.27"
         damageModifier="-1.25" skinColor="-1"
         items="597" costumeSuffix="grate"
     />
