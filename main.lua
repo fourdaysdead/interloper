@@ -1,8 +1,6 @@
 Interloper = RegisterMod("Interloper", 1)
 local mod = Interloper
 
-
-
 local gratePlayer = Isaac.GetPlayerTypeByName("Grate")
 
 local function CheckIfGrate(player)
